@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./macciiplautiqua02maigoog_0384.png"; bbox 0 0 2025 3050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 386 724 427 735">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 386 724 427 735">
+     <span class='ocr_line' id='line_1_1' title="bbox 386 724 427 735; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 386 724 427 735; x_wconf 66' lang='lat' dir='ltr'><strong>*n-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 44 768 924 955">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 44 759 924 955">
+     <span class='ocr_line' id='line_1_2' title="bbox 44 768 924 955; baseline -0.003 -50"><span class='ocrx_word' id='word_1_2' title='bbox 44 822 177 949; x_wconf 51' lang='lat' dir='ltr'><strong>yM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 218 768 754 955; x_wconf 48' lang='lat' dir='ltr'><strong>Acetum?</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 823 826 833 878; x_wconf 77' lang='lat'><strong>·¹</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 921 884 924 890; x_wconf 94' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 41 1079 971 1277">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 41 1079 971 1277">
+     <span class='ocr_line' id='line_1_3' title="bbox 41 1079 971 1277; baseline -0.002 -44"><span class='ocrx_word' id='word_1_6' title='bbox 41 1079 971 1277; x_wconf 45' lang='lat' dir='ltr'><strong>MosT›EL&#39;L.A1{‚1A·&#39;&#39;‚&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1018 3050">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1018 3050">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1018 3050; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1018 3050; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
